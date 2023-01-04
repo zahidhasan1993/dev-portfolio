@@ -1,0 +1,39 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+/*--------------nav style--------------*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin : 50px 230px; 
+}
+.pri-color{
+    color: #FD6E0A;
+}
+.h2{
+    
+    font-weight: 800;
+    font-size: 45px;
+
+}
+.nav-bar{
+    display: flex;
+    
+}
+nav ul{
+    margin-top: 60px;
+}
+nav ul  li{
+    list-style: none;
+    padding: 0 30px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+.hireme{
+    color: white;
+    background-color: #FD6E0A;
+    width: 150px;
+    height: 44px;
+}
