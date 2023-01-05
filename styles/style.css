@@ -231,3 +231,6 @@ a {
     width: 461px;
     border: none;
 }
+#textarea{
+    resize: none;
+}
