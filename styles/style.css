@@ -113,3 +113,35 @@ nav ul li a {
     font-size: 20px;
     color: #181818;
 }
+/*--------------------------what i do section start------------------------------  */
+.what-i-do{
+    margin-top: 130px;
+    padding: 130px 155px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    gap: 24px;
+    margin-top: 50px;
+}
+.sub-container{
+    
+    width: 267px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.container .sub-container img{
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 30px;
+    
+}
+
+.p-small-n{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    padding-top: 20px;
+}
