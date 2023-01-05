@@ -46,6 +46,7 @@ nav ul li a {
     font-weight: 700;
     font-size: 20px;
     border-radius: 5px;
+    border: none;
 }
 /*----------------banner style--------------*/
 
@@ -195,4 +196,38 @@ nav ul li a {
     display: flex;
     gap : 71px;
     margin-bottom: 50px;
+}
+/* -----------------------------------connect area------------------------- */
+.cont-me{
+    margin-top: 130px;
+    background-color: #FFF8F3;
+
+}
+.cont-container{
+    display: flex;
+    gap: 117px;
+    padding: 130px 155px;
+}
+.sub-h2{
+    font-weight: 700;
+    font-size: 35px;
+    padding-bottom: 28px;
+    
+}
+.cont-sub-p{
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+a {
+    text-decoration: none;
+    padding-right: 24px;
+    padding-top: 30px;
+}
+.int-st{
+    background: #FFFFFF;
+    border-radius: 5px;
+    height: 64px;
+    width: 461px;
+    border: none;
 }
